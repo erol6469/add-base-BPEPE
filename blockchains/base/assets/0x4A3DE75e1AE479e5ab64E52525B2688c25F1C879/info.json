@@ -1,0 +1,18 @@
+{
+  "name": "Base Pepe",
+  "type": "ERC20",
+  "symbol": "BPEPE",
+  "decimals": 18,
+  "description": "Base Pepe ($BPEPE) is the first Pepe meme coin on Base Chain. A community-driven project focused on humor, crypto culture and transparent tokenomics.",
+  "website": "https://base-pepe.com",
+  "explorer": "https://basescan.org/token/0x4A3DE75e1AE479e5ab64E52525B2688c25F1C879",
+  "status": "active",
+  "id": "0x4A3DE75e1AE479e5ab64E52525B2688c25F1C879",
+  "links": [
+    { "name": "twitter", "url": "https://x.com/BPEPE_Official" },
+    { "name": "telegram", "url": "https://t.me/BasePepeOfficial" },
+    { "name": "github", "url": "https://github.com/erol6469/bpepe-logo" },
+    { "name": "whitepaper", "url": "https://github.com/erol6469/bpepe-logo/blob/main/BasePepe_Whitepaper_EN.pdf" }
+  ],
+  "tags": ["memes","community"]
+}
